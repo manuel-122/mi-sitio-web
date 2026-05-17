@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BD</title>
+</head>
+<!---background-color:para dar el color de fondo a la página--->
+<body style="background-color: burlywood; ">
+    <!---align="center": para alinear el texto en el centro-->
+    <h1 align="center">Big Data</h1>
+    <br>
+    <!---margin-left: para dar un margen al texto-->
+    <h2 style="margin-left:85px ;">Que es la Big Data?</h2>
+
+    <p style="margin-left:80px;">
+        El término Big Data se refiere al conjunto masivo de datos que se generan constantemente 
+        a través de diferentes fuentes como redes sociales, dispositivos móviles, sensores, 
+        transacciones en línea y más. Estos datos son tan grandes y complejos que las herramientas
+        tradicionales de procesamiento no son suficientes para analizarlos de manera eficiente.
+<br><br>
+Big Data se caracteriza principalmente por las “3 V”: volumen (gran cantidad de datos), velocidad
+(rapidez con la que se generan y procesan) y variedad (diferentes tipos de datos, tanto
+estructurados como no estructurados). Gracias a estas características, las organizaciones
+pueden obtener información valiosa que les permite tomar mejores decisiones.
+<br><br>
+Hoy en día, el uso de Big Data es fundamental en muchos sectores como el comercio electrónico,
+la salud, la educación y el marketing digital. Por ejemplo, las empresas pueden analizar el 
+comportamiento de los clientes para ofrecer productos personalizados, mejorar sus servicios y
+optimizar sus estrategias.
+<br><br>
+En resumen, Big Data no solo trata de recopilar grandes cantidades de información, sino de
+convertir esos datos en conocimiento útil que impulse la innovación y el crecimiento.
+    </p>
+    <!--href: contiene el link de la página externa-->
+    <!--target="_blank": se usa para abrir la página en otra pestaña-->
+    <a href="https://www.oracle.com/latam/big-data/what-is-big-data/"target="_blank" style="margin-left:80px;">Para saber más sobre el tema...</a>
+<center>
+    <!--href: contiene el link de la imagen que se ubica en el drive-->
+<a  href="https://drive.google.com/file/d/1SmHNw6AzLbttyAgrfUmUaIgLOYh5GpHH/view?usp=sharing" target="_blank" >
+    <!--src:hace el llamado de la imagen q se ubica en el drive-->
+    <img  src="https://drive.google.com/thumbnail?id=1SmHNw6AzLbttyAgrfUmUaIgLOYh5GpHH" width="350" >
+</a>
+    </center>
+    <h3 >Grupo 6</h3>
+    <!---ol: para hacer una lista ordenada-->
+    <ol>
+        <!---li: para hacer una lista de elementos-->
+        <li>Walker sizemore</li>
+        <li>Manuel Tello</li>
+        <li>Rivera Wesley</li>
+        <li>Rodriguez Juan Diego</li>
+        <li>Santos Bayron</li>
+        <li>Vasquez Jesus</li>
+        <li>Vergara Estrella</li>
+        <li>Sanchez Dalis</li>
+    </ol>
+    <!---table: para hacer una tabla-->
+    <table border="1" style="margin-left:70px; ">
+        <!--tr:para organizar la tabla en filas-->
+        <tr>
+            <!---th:se usa para crear títulos dentro de una tabla-->
+            <th>WhatsApp</th>
+            <th>facebook</th>
+            <th>Twitter</th>
+            <th>Instagran</th>
+        </tr>
+        <tr>
+            <!---td: se usa para crear celdas dentro de una tabla -->
+            <!---&nbsp;: se usa para dar espacios entre las palabras-->
+            <td><img src="w.png" width="140" right="140"></td>
+            <td><img src="f.png"width="100" right="100" style="margin-left:10px; margin-right: 10px; "></td>
+            <td><img src="x.png"width="100" right="100" style="margin-left:10px; margin-right: 10px "></td>
+            <td><img src="int.png"width="100" right="100" style="margin-left:10px; margin-right: 10px "></td>
+        </tr>
+    </table>
+</body>
+</html>
